@@ -1,5 +1,5 @@
 # learning-c
-All of the code that I have written while reading "The C Programming Language, 2nd Edition".
+All of the code that I have written while reading "The C Programming Language, 2nd Edition", by Brain Kernighan and Dennis Ritchie.
 
 Low level programming is very interesting to me. I wanted to learn C to get a better idea of how code is excecuted at a low level, to have more control over memory, and to write efficient programs "close to the metal".
 
